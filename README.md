@@ -1,16 +1,28 @@
-# music_player
+# Flutter Music Player 🎶
 
-A new Flutter project.
+Welcome to my Flutter Music Player project! This app showcases a custom music player built with Flutter and the `just_audio` package, featuring smooth playback with local audio and a real-time seek bar adjustment.
+
+## Features
+
+- Play local audio files
+- Real-time seek bar for playback control
+- Display song information including title, album, singer, and composer
+- Simple and intuitive UI
+
+## Screenshots
+
+![Music Player Screenshot](assets/images/screenshot1.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a local copy up and running follow these simple steps.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/AlfaWhoCodes/flutter-music-player.git
